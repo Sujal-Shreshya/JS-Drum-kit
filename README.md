@@ -1,1 +1,1 @@
-# JS-Drum-kit.github.io
+# JS-Drum-kit
